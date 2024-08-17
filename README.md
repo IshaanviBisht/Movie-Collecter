@@ -1,7 +1,9 @@
-A movie collecter!
+# Movie Collector
+
+A movie collector!
 
 Show, find, and add movies!
-Using python and mainly creating your own fuctions.
+Using Python and mainly creating your functions.
 
 Enjoy!
 
